@@ -1,0 +1,33 @@
+POLAVCEK - SUBIR A GITHUB
+
+Este proyecto contiene el rediseño estatico de Polavcek preparado para revisar
+y publicar en GitHub.
+
+Archivos principales:
+
+- index.html
+- styles.css
+- script.js
+- README.md
+
+Para verlo en local:
+
+1. Abre index.html directamente en el navegador.
+2. O ejecuta:
+
+   python3 -m http.server 8000
+
+3. Entra en:
+
+   http://localhost:8000
+
+Para publicarlo en GitHub Pages:
+
+1. Sube los archivos a la raiz del repositorio.
+2. En GitHub, ve a Settings > Pages.
+3. Source: Deploy from a branch.
+4. Branch: main.
+5. Folder: /root.
+6. Pulsa Save.
+
+Consulta README.md para mas detalle.
